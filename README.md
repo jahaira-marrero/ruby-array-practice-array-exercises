@@ -10,9 +10,9 @@ Integers - an array from 0 to 100:
 
 Objectives:
 
-1. return all odd numbers
-2. return all even numbers
-3. return the square of all the numbers
+1. return all odd numbers ✅
+2. return all even numbers ✅
+3. return the square of all the numbers ✅
 4. return the first number whose square is > 350
 5. return all the numbers whose square is > 350
 6. return all the numbers, cubed
